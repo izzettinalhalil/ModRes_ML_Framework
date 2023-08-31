@@ -8,4 +8,5 @@ This repository consists of the following files
 1. Read me file (background and explanation)
 2. Google colab excuted code ( to show the excured code with the results)
 3. Python code version ( to enable excuting the code in external python environment)
-4. license
+4. CSV file of ModRes database
+5. license
