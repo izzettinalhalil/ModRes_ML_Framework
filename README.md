@@ -1,9 +1,10 @@
 # ModRes_ML_Framework
 This is the ModRes database consists of 9723 examples representing modal and RS analysis.
 Find the associated paper here: https://www.mdpi.com/2075-5309/14/9/2967
-The aim is to predict torsional irregularity, period, MPMR and POA applicability for RCbuildings.
+
+The aim is to predict torsional irregularity, period, MPMR and POA applicability for RC buildings.
 The code has been totally written in Python PL and excuted in GoogleColab.
-To excute the code, the ModRes CSV file should be in the same directory of the code
+To excute the code, the ModRes CSV file should be in the same directory of the code.
 
 This repository consists of the following files
 1. ReadMe file (background and explanation)
